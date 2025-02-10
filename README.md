@@ -20,7 +20,7 @@ The APIs are well-documented and easily accessible through Swagger UI, making it
 - **Maven**
 - **MySQL**
 - **Spring Data JPA**
-- **lambook**
+- **lombok**
 - **Swagger UI**
  # Running the app
 1. Clone the repository: git clone https://github.com/Sirajuddin135/E-Commerce-Application.git
@@ -43,4 +43,16 @@ The APIs are well-documented and easily accessible through Swagger UI, making it
 
  # Swagger-ui
 <img width="1226" alt="Image" src="https://github.com/user-attachments/assets/3e819960-aa26-4ffe-8717-89ae42db81ee" />
+
+# API Controllers
+<img width="1237" alt="Image" src="https://github.com/user-attachments/assets/42dcdc50-1c60-4b77-b44f-1aa714937d4a" />
+
+<img width="1232" alt="Image" src="https://github.com/user-attachments/assets/15fa6ec4-56d9-47f2-b52c-b786ff7520c3" />
+
+<img width="1222" alt="Image" src="https://github.com/user-attachments/assets/a5a3f12b-75a7-4a09-a97f-bea4719c259b" />
+
+<img width="1226" alt="Image" src="https://github.com/user-attachments/assets/ff533b31-96f3-4877-9260-1c0ca02cbff8" />
+
+<img width="1226" alt="Image" src="https://github.com/user-attachments/assets/38d804e3-deb0-4b6d-8877-b05b152f6d03" />
+
 
