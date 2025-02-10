@@ -51,4 +51,4 @@ The APIs are well-documented and easily accessible through Swagger UI, making it
 
 <img width="1226" alt="Image" src="https://github.com/user-attachments/assets/38d804e3-deb0-4b6d-8877-b05b152f6d03" />
 
-
+## Get ready for the upcoming release of our security module!
