@@ -14,7 +14,7 @@ The APIs are well-documented and easily accessible through Swagger UI, making it
   📊 **REST API with Spring Boot** – Well-structured endpoints for each entity.  
   📂 **MVC Architecture** – Clear separation between controllers, services, and repositories.  
 
- # Technologies utilisées
+ # Technologies used
 - **Java 17** 
 - **Spring Boot**
 - **Maven**
