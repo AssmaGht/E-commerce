@@ -23,7 +23,7 @@ The APIs are well-documented and easily accessible through Swagger UI, making it
 - **lombok**
 - **Swagger UI**
  # Running the app
-1. Clone the repository: git clone https://github.com/Sirajuddin135/E-Commerce-Application.git
+1. Clone the repository: git clone https://github.com/AssmaGht/E-commerce.git
 2. Import the project into STS:
 - Click File > Import...
 - Select Maven > Existing Maven Projects and click Next
@@ -32,7 +32,7 @@ The APIs are well-documented and easily accessible through Swagger UI, making it
 4. Run the app: Right-click the project in the Package Explorer and click Run As > Spring Boot App.
 
  # API documentation
-- API documentation is available via Swagger UI at http://localhost:8080/swagger-ui/index.html
+- API documentation is available via Swagger UI at http://localhost:8089/swagger-ui/index.html
 
  # ER-Diagram
 
