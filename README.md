@@ -16,7 +16,7 @@ The APIs are well-documented and easily accessible through Swagger UI, making it
 
  # Technologies used
 - **Java 17** 
-- **Spring Boot**
+- **Spring Boot 2.0**
 - **Maven**
 - **MySQL**
 - **Spring Data JPA**
