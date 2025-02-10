@@ -34,10 +34,6 @@ The APIs are well-documented and easily accessible through Swagger UI, making it
  # API documentation
 - API documentation is available via Swagger UI at http://localhost:8089/swagger-ui/index.html
 
- # ER-Diagram
-
-
-
  # Workflow
 <img src="https://github.com/user-attachments/assets/681e6b9b-7d32-4225-8fd2-b453b80a4480" width="500" />
 
